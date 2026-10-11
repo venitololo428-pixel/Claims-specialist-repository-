@@ -4,6 +4,16 @@
 
 Each case follows the same audit-ready structure I use for real tickets: **Issue → Research → Root cause → Action → Documentation**.
 
+## Summary
+
+| # | Case | Root cause | Outcome |
+|---|---|---|---|
+| 1 | [Duplicate denial (CARC 18)](#case-1--duplicate-denial-after-a-resubmission-carc-18) | Provider resubmitted a pended claim | Original claim kept open; provider sent records instead of a new claim |
+| 2 | [COB denial for a dependent (CARC 22)](#case-2--cob-denial-for-a-dependent-carc-22) | Billed secondary plan first | Birthday rule applied; provider redirected to primary plan |
+| 3 | [Underpayment against contract](#case-3--underpayment-against-contract) | Fee schedule not updated (payer error) | Pattern escalated across 6 claims; provider underpayment recovered |
+| 4 | [Authorization mismatch (CARC 197)](#case-4--missing-authorization-carc-197-that-was-actually-on-file) | Auth for one CPT, claim billed another | Clear path to auth update / retro review |
+| 5 | [Deductible applied twice](#case-5--patient-responsibility-looks-too-high-accumulators) | Accumulator not updated after reprocessing | Accumulator corrected; member overcharge prevented |
+
 ---
 
 ## Case 1 — Duplicate denial after a resubmission (CARC 18)

@@ -1,90 +1,91 @@
-# Gabriel Díaz — Claims & Provider Services Portfolio
+# Gabriel Díaz
+### Medical Claims & Provider Services Specialist
 
-Panama City, Panama · Bilingual (Spanish native / English C1) · [venitololo428@gmail.com](mailto:venitololo428@gmail.com) · [LinkedIn](https://linkedin.com/in/gabriel-diaz-2619b8345)
+![Location](https://img.shields.io/badge/Location-Panama%20City%20(EST%20aligned)-1F4E78)
+![Open to](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid-2E7D32)
+![English](https://img.shields.io/badge/English-C1%20Advanced-1F4E78)
+![Spanish](https://img.shields.io/badge/Spanish-Native-1F4E78)
 
-Claims and provider services specialist with 3+ years in U.S.-facing BPO operations across **health insurance claims, provider services, accounts payable, and benefits administration (401(k) / Annual Enrollment)**. I currently resolve provider inquiries and claims tickets in a high-volume queue at First Enroll, investigating discrepancies, coordinating with providers, and documenting each resolution for audit and follow-up.
-
-This repository documents how I work: the claims knowledge I use daily, the playbooks I follow to resolve denials and discrepancies, and de-identified practice cases that show my reasoning step by step.
-
-> **Privacy note:** No real member, patient, provider, or client data appears in this repository. All cases use fictional names, IDs, and amounts, written to mirror the *types* of issues handled in real work. Handling PHI/PII under HIPAA-style confidentiality rules is part of my daily job, and this repo follows the same rule.
-
-## Core skills
-
-| Area | Detail |
-|---|---|
-| **Claims resolution** | Claim status research, discrepancy investigation, denial root-cause analysis, reprocessing / adjustment requests, corrected-claim guidance |
-| **Claims knowledge** | CMS-1500 / UB-04 fields, CPT / HCPCS / ICD-10 / modifiers at a working level, CARC / RARC codes, EOB / ERA reading, COB, timely filing, eligibility & benefits verification |
-| **Provider services** | Inbound provider inquiries, payment and remittance questions, credentialing / network status checks, escalation with clear documentation |
-| **Ticket queue management** | High-volume queues, prioritization by SLA and aging, quality and compliance standards, clean audit-ready case notes |
-| **Billing & AP** | Premium payment collection and posting, billing dispute resolution, payables processing, account reconciliation |
-| **Benefits administration** | 401(k) defined contribution plans for large U.S. employers, Annual Enrollment verification, SSN-level data handling |
-| **Compliance** | PHI / PII confidentiality, minimum-necessary disclosure, caller authentication, accurate documentation |
-| **Tools** | CRM and ticketing systems, Microsoft Excel (formulas, pivot tables, VLOOKUP, data cleaning), Google Sheets & Docs, Slack, Zoom, Teams, Trello |
-
-## Repository contents
-
-| Folder | What it shows |
-|---|---|
-| [`docs/claims-lifecycle`](./docs/claims-lifecycle) | End-to-end claim lifecycle, claim forms, code sets and the key concepts I apply when researching a claim |
-| [`docs/eob-walkthrough`](./docs/eob-walkthrough) | A remittance explained line by line, with the math, and how I explain it to a provider and to a member |
-| [`docs/denials-playbook`](./docs/denials-playbook) | My working playbook for the most common denial reasons (CARC groups), with root cause and next action for each |
-| [`docs/case-studies`](./docs/case-studies) | 5 de-identified practice cases: discrepancy investigations written as audit-ready case notes |
-| [`docs/provider-services`](./docs/provider-services) | Provider call/ticket workflow, authentication, escalation criteria and documentation standard |
-| [`docs/hipaa-compliance`](./docs/hipaa-compliance) | How I protect PHI, SSNs and payment data day to day, and the social-engineering red flags I watch for |
-| [`docs/benefits-401k`](./docs/benefits-401k) | Benefits administration experience: 401(k) DC plans and Annual Enrollment |
-| [`docs/glossary`](./docs/glossary) | Claims and benefits terms used across this portfolio |
-| [`templates`](./templates) | Claims queue tracker (Excel, with aging/SLA formulas) and a case-note template |
-
-### Claims queue tracker
-
-![Claims queue tracker](./assets/claims-queue-tracker.png)
-
-[`templates/claims-queue-tracker.xlsx`](./templates/claims-queue-tracker.xlsx) calculates due dates in business days, aging and SLA status automatically, highlights overdue tickets, and summarizes volume, SLA compliance and root causes on a second sheet. Sample rows are fictional.
-
-## Highlights at a glance
-
-- **Claims resolution:** I separate provider errors, payer errors and correct denials, and explain each in plain language ([case studies](./docs/case-studies))
-- **Systemic thinking:** when one underpaid claim points to a fee-schedule problem, I escalate the pattern instead of fixing one claim at a time ([Case 3](./docs/case-studies#case-3--underpayment-against-contract))
-- **Every dollar accounted for:** billed = adjustment + patient responsibility + plan paid ([EOB walkthrough](./docs/eob-walkthrough))
-- **Compliance by default:** verification, minimum-necessary disclosure and audit-ready notes on every contact ([HIPAA practices](./docs/hipaa-compliance))
-- **Both sides of benefits:** enrollment and eligibility on the benefits side, claims and payments on the insurance side
-
-## Professional experience
-
-**First Enroll — Provider Services & Claims Resolution** · Panama City · *Current*
-- Resolve provider services inquiries and claims tickets with accurate, timely case handling
-- Manage a high-volume ticketing queue while meeting compliance and quality standards
-- Investigate and process claims discrepancies, coordinating with providers to resolve them
-- Document case resolutions clearly for audit and follow-up
-
-**First Enroll — Accounts Payable Specialist** · Panama City
-- Supported U.S. clients with health insurance accounts in English
-- Collected and processed payments accurately under privacy and billing regulations
-- Guided customers through policy details, coverage questions and account updates; resolved billing issues
-- Processed transactions, managed payable accounts and documented every interaction in CRM
-
-**Foundever (Alight) — 401(k) Defined Contribution Specialist** · Panama City
-- Managed 401(k) plans for multiple large U.S. employer clients
-- Input, updated and verified employee benefit data across multiple systems
-- Handled U.S. Social Security data under strict privacy and compliance rules
-- Supported Annual Enrollment, verifying client data for accurate, on-time benefit elections
-- Exceeded KPIs for call resolution and information processing
-
-**Alorica (Best Buy) — Customer Service Agent** · Panama City
-- Entered and maintained customer records in databases with high accuracy
-- Processed sensitive payment and membership data (Total / Plus) confidentially
-- Met performance targets while handling high information volume
-
-## Education
-
-- B.Sc. Systems Engineering — Universidad Humboldt *(in progress)*
-- Google IT Support Professional Certificate
-- High School Diplomas in Science (2024) and Commerce (2022) — Instituto Sun Yat Sen
-
-## Languages
-
-Spanish (native) · English (advanced, C1) · Chinese (basic) · Japanese (basic)
+📧 [venitololo428@gmail.com](mailto:venitololo428@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/gabriel-diaz-2619b8345) · 🖥️ [IT Support Portfolio](https://github.com/venitololo428-pixel/IT-support-portfolio)
 
 ---
 
-See also: [IT Support Portfolio](https://github.com/venitololo428-pixel/IT-support-portfolio)
+I resolve **medical claims and provider inquiries for U.S. health plans**: investigating denials and payment discrepancies, coordinating with providers, and documenting every case so it holds up in an audit. Over 3+ years in U.S.-facing BPO operations I have worked **both sides of benefits**: health insurance claims and billing, and 401(k) / Annual Enrollment administration for large U.S. employers.
+
+**Roles I'm targeting:** Claims Specialist · Claims Examiner / Processor · Provider Services Representative · Medical Billing & AR Follow-up · Benefits Administration
+
+## What I bring to your team
+
+| | |
+|---|---|
+| ✅ **Claims resolution** | Denials, underpayments, COB, authorization and eligibility issues: root cause found, explained clearly, fixed or escalated |
+| ✅ **High-volume queue work** | Ticket queues worked by SLA and aging, with quality and compliance standards met |
+| ✅ **Audit-ready documentation** | Short, factual case notes: what was asked, what I found, what I did, what happens next |
+| ✅ **HIPAA & sensitive data** | Daily handling of PHI, Social Security numbers and payment data with verification and minimum-necessary disclosure |
+| ✅ **Bilingual service** | Native Spanish, advanced English (C1), working U.S. hours from Panama (same time zone as EST) |
+| ✅ **Excel & systems** | CRM and ticketing systems, Excel (pivot tables, VLOOKUP, formulas), fast and accurate data entry |
+
+## Experience
+
+**First Enroll** · Panama City
+- **Provider Services & Claims Resolution** *(current)*: resolve provider inquiries and claims tickets in a high-volume queue; investigate claims discrepancies and coordinate with providers; document resolutions for audit and follow-up
+- **Accounts Payable Specialist**: supported U.S. health insurance customers in English; processed premium payments and resolved billing issues; explained policy details and coverage; documented all interactions in CRM
+
+**Foundever (Alight account): 401(k) Defined Contribution Specialist** · Panama City
+- Managed 401(k) plans for several large U.S. employer clients
+- Verified employee benefit data across multiple systems and supported **Annual Enrollment**
+- Handled Social Security data under strict privacy rules; **exceeded KPIs** for call resolution and processing
+
+**Alorica (Best Buy account): Customer Service Agent** · Panama City
+- Maintained customer records with high accuracy; processed card and membership data confidentially; met performance targets
+
+## ⏱️ Have 2 minutes? Start here
+
+| If you want to see… | Open |
+|---|---|
+| How I investigate and document real-world claim problems | 📂 [**5 case studies**](./docs/case-studies) *(de-identified)* |
+| That I can explain every dollar on a remittance | 🧾 [**EOB walkthrough**](./docs/eob-walkthrough) |
+| How I handle the most common denials | 📋 [**Denials playbook**](./docs/denials-playbook) |
+| How I protect PHI on every contact | 🔒 [**HIPAA practices**](./docs/hipaa-compliance) |
+
+## Full portfolio
+
+| Section | What it shows |
+|---|---|
+| [Claims lifecycle](./docs/claims-lifecycle) | How a claim moves from visit to payment, claim forms, code sets, and my research order for a ticket |
+| [EOB walkthrough](./docs/eob-walkthrough) | A remittance explained line by line, and how I explain it to a provider and to a member |
+| [Denials playbook](./docs/denials-playbook) | Common CARC denials and payment discrepancies with root cause, checks and next action |
+| [Case studies](./docs/case-studies) | Duplicate denial, COB, underpayment against contract, authorization mismatch, deductible error |
+| [Provider services workflow](./docs/provider-services) | Authentication, inquiry types, escalation criteria and documentation standard |
+| [HIPAA practices](./docs/hipaa-compliance) | Verification, minimum necessary, and social-engineering red flags |
+| [401(k) & Annual Enrollment](./docs/benefits-401k) | Benefits administration experience and how it connects to claims |
+| [Glossary](./docs/glossary) | Claims and benefits terms used in this portfolio |
+| [Templates](./templates) | Claims queue tracker (Excel) and case-note template |
+
+### Claims queue tracker (Excel)
+
+![Claims queue tracker](./assets/claims-queue-tracker.png)
+
+[Download the tracker](./templates/claims-queue-tracker.xlsx). It calculates due dates in business days, ticket aging and SLA status automatically, highlights overdue tickets, and summarizes volume, SLA compliance and root causes. *Sample rows are fictional.*
+
+## Skills
+
+**Claims:** CMS-1500 / UB-04 · CPT, HCPCS, ICD-10 and modifiers (working level) · CARC / RARC · EOB / ERA (835) · COB · eligibility & benefits · prior authorization · timely filing · corrected claims & appeals · reprocessing requests
+
+**Operations:** ticket queues & SLAs · provider and member communication · escalation · payment processing · accounts payable · data verification
+
+**Tools:** CRM & ticketing systems · Microsoft Excel (pivot tables, VLOOKUP, data cleaning) · Google Sheets & Docs · Microsoft Teams · Slack · Zoom · Trello
+
+## Education
+
+- **B.Sc. Systems Engineering**, Universidad Humboldt *(in progress)*
+- **Google IT Support Professional Certificate**
+- High school diplomas in Science and Commerce, Instituto Sun Yat Sen
+
+**Languages:** Spanish (native) · English (C1) · Chinese (basic) · Japanese (basic)
+
+---
+
+> 🔒 **About the data in this repository:** every case, name, ID and amount here is fictional. The cases mirror the *types* of issues handled in claims work, never real records. No member, patient, provider or client data is shared.
+
+**Let's talk:** [venitololo428@gmail.com](mailto:venitololo428@gmail.com) · [LinkedIn](https://linkedin.com/in/gabriel-diaz-2619b8345)
